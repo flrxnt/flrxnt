@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @florentwebdev
+- 🌱 I’m currently learning HTML CSS & JS
+- 📫 Join me on [Discord](https://discord.com/users/738115097511198812)
