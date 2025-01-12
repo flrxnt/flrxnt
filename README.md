@@ -8,8 +8,8 @@ Hi there! I'm Florent, a passionate developer who loves exploring new technologi
 ## 🛠️ **Technologies & Skills**  
 Here are the technologies I work with regularly:  
 
-- **Front-end**: JavaScript (ES6+), React / React Native / Next.js, Vue / Nuxt.js, Svelte / SvelteKit  
-- **Back-end**: Node.js, Express, REST APIs, GraphQL, Appwrite, Pocketbase  
+- **Front-end**: JavaScript (ES6+), React / React Native, Vue / Nuxt.js, Svelte / SvelteKit  
+- **Back-end**: Node.js, Express, NestJS, REST APIs, GraphQL, Appwrite, Pocketbase  
 - **Tools**: Prettier, GitHub Actions, CI/CD, ESLint, Capacitor, Expo  
 - **Design**: Responsive Design, TailwindCSS, Figma  
 
