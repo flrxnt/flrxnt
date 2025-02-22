@@ -14,7 +14,11 @@ Here are the technologies I work with regularly:
 - **Design**: Responsive Design, TailwindCSS, Figma  
 
 ## 🔥 **GitHub Stats**  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=notflorent&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&card_width=465)
+![notflorent's Streak](https://github-readme-streak-stats.herokuapp.com/?user=notflorent&theme=dark&hide_border=true)
+<br />
+![](https://raw.githubusercontent.com/notflorent/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/notflorent/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 
 ## 🌍 **Where to Find Me?**  
 - [LinkedIn](https://www.linkedin.com/in/florentazd)  
