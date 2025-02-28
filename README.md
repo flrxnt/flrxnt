@@ -1,9 +1,9 @@
 
-[![Florent's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=notflorent)](https://github.com/notFlorent)
+[![0xc007b's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=notflorent)](https://github.com/0xc007b)
 
-# 🧑‍💻 **Florent — Full Stack Web Developer**  
+# 🧑‍💻 **0xc007b — 🇧🇯**  
 
-Hi there! I'm Florent, a passionate developer who loves exploring new technologies and crafting optimized user experiences.  
+Hi there! Welcome.
 
 ## 🛠️ **Technologies & Skills**  
 Here are the technologies I work with regularly:  
@@ -14,10 +14,10 @@ Here are the technologies I work with regularly:
 - **Design**: Responsive Design, TailwindCSS, Figma  
 
 ## 🔥 **GitHub Stats**  
-![notflorent's Streak](https://github-readme-streak-stats.herokuapp.com/?user=notflorent&theme=dark&hide_border=true)
+![notflorent's Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xc007b&theme=dark&hide_border=true)
 <br />
-![](https://raw.githubusercontent.com/notflorent/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/notflorent/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/0xc007b/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/0xc007b/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 ## 🌍 **Where to Find Me?**  
