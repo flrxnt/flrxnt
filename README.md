@@ -21,7 +21,7 @@ Here are the technologies I work with regularly:
 
 
 ## 🔥 **GitHub Stats**
-![0xc007b's Streak](https://github-readme-stats.vercel.app/api?username=0xc007b&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+![0xc007b's Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xc007b&theme=dark&hide_border=true)
 <br />
 ![](https://raw.githubusercontent.com/0xc007b/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/0xc007b/github-stats/master/generated/languages.svg#gh-dark-mode-only)
