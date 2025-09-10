@@ -1,6 +1,6 @@
-[![0xc007b's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xc007b)](https://github.com/0xc007b)
+[![flrxnt's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=flrxnt)](https://github.com/flrxnt)
 
-# 🧑‍💻 **0xc007b — 🇧🇯**
+# 🧑‍💻 **flrxnt — 🇧🇯**
 
 Hi there! Welcome to my profile.
 
@@ -21,13 +21,13 @@ Here are the technologies I work with regularly:
 
 
 ## 🔥 **GitHub Stats**
-![0xc007b's Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xc007b&theme=dark&hide_border=true)
+![flrxnt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=flrxnt&theme=dark&hide_border=true)
 <br />
-![](https://raw.githubusercontent.com/0xc007b/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/0xc007b/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/flrxnt/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/flrxnt/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0xc007b&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=flrxnt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ## 🌍 **Where to Find Me?**
@@ -39,5 +39,5 @@ Here are the technologies I work with regularly:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=0xc007b&icon=0&color=0)](https://visitcount.itsvg.in) -->
-![](https://komarev.com/ghpvc/?username=0xc007b&style=for-the-badge)
+<!-- [![](https://visitcount.itsvg.in/api?id=flrxnt&icon=0&color=0)](https://visitcount.itsvg.in) -->
+![](https://komarev.com/ghpvc/?username=flrxnt&style=for-the-badge)
