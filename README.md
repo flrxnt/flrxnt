@@ -21,7 +21,7 @@ Here are the technologies I work with regularly:
 
 
 ## 🔥 **GitHub Stats**
-![flrxnt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=flrxnt&theme=dark&hide_border=true)
+[![Flrxnt's Streak](https://streak-stats.demolab.com?user=flrxnt)](https://git.io/streak-stats)
 <br />
 ![](https://raw.githubusercontent.com/flrxnt/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/flrxnt/github-stats/master/generated/languages.svg#gh-dark-mode-only)
