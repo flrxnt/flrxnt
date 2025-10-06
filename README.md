@@ -1,6 +1,6 @@
 [![flrxnt's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=flrxnt)](https://github.com/flrxnt)
 
-# 🧑‍💻 **flrxnt — 🇧🇯**
+# 🧑‍💻 **flrxnt — 🇧🇯** [![committers.top badge](https://user-badge.committers.top/senegal_private/flrxnt.svg)](https://user-badge.committers.top/senegal_private/flrxnt)
 
 Hi there! Welcome to my profile.
 
@@ -39,5 +39,5 @@ Here are the technologies I work with regularly:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=flrxnt&icon=0&color=0)](https://visitcount.itsvg.in) -->
 ![](https://komarev.com/ghpvc/?username=flrxnt&style=for-the-badge)
+
