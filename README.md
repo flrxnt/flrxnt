@@ -1,6 +1,6 @@
 [![flrxnt's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=flrxnt)](https://github.com/flrxnt)
 
-# 🧑‍💻 **flrxnt — 🇧🇯** [![committers.top badge](https://user-badge.committers.top/senegal_private/flrxnt.svg)](https://user-badge.committers.top/senegal_private/flrxnt)
+# 🧑‍💻 **Florent — 🇧🇯** [![committers.top badge](https://user-badge.committers.top/senegal_private/flrxnt.svg)](https://user-badge.committers.top/senegal_private/flrxnt)
 
 Hi there! Welcome to my profile.
 
@@ -27,13 +27,12 @@ Here are the technologies I work with regularly:
 ![](https://raw.githubusercontent.com/flrxnt/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=flrxnt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=flrxnt&theme=gruvbox&row=1&column=7)
 
 ## 🌍 **Where to Find Me?**
 - [LinkedIn](https://www.linkedin.com/in/florentazd)
-- [X (formerly Twitter)](https://x.com/_flrnt)
-- [My Website](https://florentazd.dev)
+- [X (formerly Twitter)](https://x.com/flrxnt)
+- [My Website](https://flrxnt.com)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
